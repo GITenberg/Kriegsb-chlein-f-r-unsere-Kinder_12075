@@ -1,0 +1,27 @@
+_repo: Kriegsb-chlein-f-r-unsere-Kinder_12075
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sapper, Agnes
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '3750'
+    url: http://www.gutenberg.org/2009/agents/3750
+    wikipedia: http://de.wikipedia.org/wiki/Agnes_Sapper
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12075'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Juvenile literature'
+- GITenberg
+title: Kriegsbüchlein für unsere Kinder
+url: http://www.gutenberg.org/ebooks/12075
